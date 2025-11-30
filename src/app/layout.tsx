@@ -88,6 +88,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <meta name="google-adsense-account" content="ca-pub-2894915343289598" />
+      </head>
       <body
         className={`${inter.variable} ${playfairDisplay.variable} ${cinzel.variable} antialiased`}
       >
