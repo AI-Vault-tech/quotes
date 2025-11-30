@@ -1,3 +1,5 @@
+'use client';
+
 import Link from 'next/link';
 import { useState } from 'react';
 
@@ -201,7 +203,7 @@ export default function ContactPage() {
           </div>
           
           <div className="mt-16 text-center">
-            <h2 className="heading-text text-2xl mb-6 text-accent">Connect With Our Community</h2>
+            <h2 className="heading-text text-2xl mb-4 text-accent">Connect With Our Community</h2>
             <p className="text-foreground/80 mb-8 max-w-2xl mx-auto">
               Join our community of wisdom seekers on social media to engage in discussions, 
               discover new insights, and connect with fellow philosophers and thinkers.
