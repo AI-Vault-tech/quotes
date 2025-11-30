@@ -2,7 +2,7 @@
 import { Metadata } from 'next';
 
 // Base URL for the site - update with your actual domain
-const BASE_URL = 'https://veritas.example.com';
+const BASE_URL = 'https://wisdomvault.vercel.app';
 
 // Supported languages
 const SUPPORTED_LANGUAGES = [
