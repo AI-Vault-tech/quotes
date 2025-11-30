@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test Quotes API</title>
+</head>
+<body>
+    <h1>Test Quotes API</h1>
+    <button onclick="testQuotes()">Test Quotes Fetch</button>
+    <div id="results"></div>
+
+    <script>
+        async function testQuotes() {
+            try {
+                const response = await fetch('/api/quotes?theme=love&limit=15');
+                const data = await response.json();
+                
+                document.getElementById('results').innerHTML = `
+                    <h2>Results:</h2>
+                    <p>Quotes fetched: ${data.quotes.length}</p>
+                    <p>Total quotes in database: ${data.total}</p>
+                    <h3>First few quotes:</h3>
+                    <ul>
+                        ${data.quotes.slice(0, 5).map(quote => 
+                            `<li>"${quote.text}" - ${quote.author}</li>`
+                        ).join('')}
+                    </ul>
+                `;
+            } catch (error) {
+                document.getElementById('results').innerHTML = `<p>Error: ${error.message}</p>`;
+            }
+        }
+    </script>
+</body>
+</html>

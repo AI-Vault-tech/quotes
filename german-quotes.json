@@ -1,0 +1,112 @@
+[
+  {
+    "id": "german-1",
+    "text": "Das Leben ist das, was passiert, während du beschäftigt bist, andere Pläne zu machen.",
+    "author": "John Lennon",
+    "authorId": "john-lennon",
+    "tags": ["life", "plans"],
+    "themes": ["life", "unexpected"],
+    "schools": ["modern"],
+    "era": "modern",
+    "language": "german"
+  },
+  {
+    "id": "german-2",
+    "text": "Der größte Feind des Wissens ist nicht die Unwissenheit, sondern die Illusion des Wissens.",
+    "author": "Stephen Hawking",
+    "authorId": "stephen-hawking",
+    "tags": ["knowledge", "illusion"],
+    "themes": ["knowledge", "truth"],
+    "schools": ["science"],
+    "era": "modern",
+    "language": "german"
+  },
+  {
+    "id": "german-3",
+    "text": "Tief geliebt zu werden gibt dir Kraft, während dich jemand tief zu lieben Mut gibt.",
+    "author": "Lao Tzu",
+    "authorId": "lao-tzu",
+    "tags": ["love", "strength"],
+    "themes": ["love", "courage"],
+    "schools": ["taoism"],
+    "era": "ancient",
+    "language": "german"
+  },
+  {
+    "id": "german-4",
+    "text": "Einfachheit ist die höchste Form der Sophistik.",
+    "author": "Leonardo da Vinci",
+    "authorId": "leonardo-da-vinci",
+    "tags": ["simplicity", "sophistication"],
+    "themes": ["simplicity", "design"],
+    "schools": ["renaissance"],
+    "era": "renaissance",
+    "language": "german"
+  },
+  {
+    "id": "german-5",
+    "text": "Man muss lernen zu sterben, um zu lernen zu leben.",
+    "author": "Montaigne",
+    "authorId": "montaigne",
+    "tags": ["death", "life"],
+    "themes": ["mortality", "wisdom"],
+    "schools": ["renaissance"],
+    "era": "renaissance",
+    "language": "german"
+  },
+  {
+    "id": "german-6",
+    "text": "Die Freiheit beginnt dort, wo die Unwissenheit endet.",
+    "author": "Victor Hugo",
+    "authorId": "victor-hugo",
+    "tags": ["freedom", "ignorance"],
+    "themes": ["freedom", "knowledge"],
+    "schools": ["literature"],
+    "era": "modern",
+    "language": "german"
+  },
+  {
+    "id": "german-7",
+    "text": "Glück ist manchmal im Unbekannten verborgen.",
+    "author": "Victor Hugo",
+    "authorId": "victor-hugo",
+    "tags": ["happiness", "unknown"],
+    "themes": ["happiness", "discovery"],
+    "schools": ["literature"],
+    "era": "modern",
+    "language": "german"
+  },
+  {
+    "id": "german-8",
+    "text": "Gedanken sind die größte Sache auf der Welt.",
+    "author": "Henri Bergson",
+    "authorId": "henri-bergson",
+    "tags": ["thought", "greatness"],
+    "themes": ["thinking", "philosophy"],
+    "schools": ["philosophy"],
+    "era": "modern",
+    "language": "german"
+  },
+  {
+    "id": "german-9",
+    "text": "Die Hoffnung ist ein wacher Traum.",
+    "author": "Aristoteles",
+    "authorId": "aristotle",
+    "tags": ["hope", "dream"],
+    "themes": ["hope", "aspiration"],
+    "schools": ["ancient-greek"],
+    "era": "ancient",
+    "language": "german"
+  },
+  {
+    "id": "german-10",
+    "text": "Der Anfang der Weisheit liegt im Staunen.",
+    "author": "Sokrates",
+    "authorId": "socrates",
+    "tags": ["wisdom", "wonder"],
+    "themes": ["wisdom", "curiosity"],
+    "schools": ["ancient-greek"],
+    "era": "ancient",
+    "language": "german"
+  }
+]

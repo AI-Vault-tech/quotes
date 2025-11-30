@@ -1,0 +1,242 @@
+[
+  {
+    "id": "arabic-1",
+    "text": "العلم بلا عمل كالشجرة بلا ثمار.",
+    "author": "علي بن أبي طالب",
+    "authorId": "ali-ibn-abi-talib",
+    "tags": [
+      "knowledge",
+      "action"
+    ],
+    "themes": [
+      "knowledge",
+      "wisdom"
+    ],
+    "schools": [
+      "islamic-philosophy"
+    ],
+    "era": "medieval",
+    "language": "arabic",
+    "source": "Arabic Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:01.334Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "arabic-2",
+    "text": "من لم يجعل لنفسه هدى فقد أخطأ الطريق.",
+    "author": "أبو حامد الغزالي",
+    "authorId": "al-ghazali",
+    "tags": [
+      "guidance",
+      "purpose"
+    ],
+    "themes": [
+      "guidance",
+      "purpose"
+    ],
+    "schools": [
+      "islamic-philosophy"
+    ],
+    "era": "medieval",
+    "language": "arabic",
+    "source": "Arabic Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:01.337Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "arabic-3",
+    "text": "الصبر مفتاح الفرج.",
+    "author": "أحمد بن طولون",
+    "authorId": "ahmad-ibn-tulun",
+    "tags": [
+      "patience",
+      "relief"
+    ],
+    "themes": [
+      "patience",
+      "perseverance"
+    ],
+    "schools": [
+      "islamic-wisdom"
+    ],
+    "era": "medieval",
+    "language": "arabic",
+    "source": "Arabic Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:01.337Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "arabic-4",
+    "text": "من لم يمت في youth لم يمت في old age.",
+    "author": "ابن سينا",
+    "authorId": "ibn-sina",
+    "tags": [
+      "youth",
+      "wisdom"
+    ],
+    "themes": [
+      "youth",
+      "aging"
+    ],
+    "schools": [
+      "islamic-philosophy"
+    ],
+    "era": "medieval",
+    "language": "arabic",
+    "source": "Arabic Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:01.337Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "arabic-5",
+    "text": "العقل السليم يغني عن الحجة.",
+    "author": "الإمام الشافعي",
+    "authorId": "imam-shafi",
+    "tags": [
+      "reason",
+      "argument"
+    ],
+    "themes": [
+      "reason",
+      "logic"
+    ],
+    "schools": [
+      "islamic-jurisprudence"
+    ],
+    "era": "medieval",
+    "language": "arabic",
+    "source": "Arabic Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:01.338Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "arabic-6",
+    "text": "من لم يجعل لنفسه هدى فقد أخطأ الطريق.",
+    "author": "أبو حامد الغزالي",
+    "authorId": "al-ghazali",
+    "tags": [
+      "guidance",
+      "purpose"
+    ],
+    "themes": [
+      "guidance",
+      "purpose"
+    ],
+    "schools": [
+      "islamic-philosophy"
+    ],
+    "era": "medieval",
+    "language": "arabic",
+    "source": "Arabic Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:01.338Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "arabic-7",
+    "text": "العلم بلا عمل كالشجرة بلا ثمار.",
+    "author": "علي بن أبي طالب",
+    "authorId": "ali-ibn-abi-talib",
+    "tags": [
+      "knowledge",
+      "action"
+    ],
+    "themes": [
+      "knowledge",
+      "wisdom"
+    ],
+    "schools": [
+      "islamic-philosophy"
+    ],
+    "era": "medieval",
+    "language": "arabic",
+    "source": "Arabic Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:01.338Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "arabic-8",
+    "text": "الصبر مفتاح الفرج.",
+    "author": "أحمد بن طولون",
+    "authorId": "ahmad-ibn-tulun",
+    "tags": [
+      "patience",
+      "relief"
+    ],
+    "themes": [
+      "patience",
+      "perseverance"
+    ],
+    "schools": [
+      "islamic-wisdom"
+    ],
+    "era": "medieval",
+    "language": "arabic",
+    "source": "Arabic Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:01.338Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "arabic-9",
+    "text": "من لم يمت في youth لم يمت في old age.",
+    "author": "ابن سينا",
+    "authorId": "ibn-sina",
+    "tags": [
+      "youth",
+      "wisdom"
+    ],
+    "themes": [
+      "youth",
+      "aging"
+    ],
+    "schools": [
+      "islamic-philosophy"
+    ],
+    "era": "medieval",
+    "language": "arabic",
+    "source": "Arabic Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:01.338Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "arabic-10",
+    "text": "العقل السليم يغني عن الحجة.",
+    "author": "الإمام الشافعي",
+    "authorId": "imam-shafi",
+    "tags": [
+      "reason",
+      "argument"
+    ],
+    "themes": [
+      "reason",
+      "logic"
+    ],
+    "schools": [
+      "islamic-jurisprudence"
+    ],
+    "era": "medieval",
+    "language": "arabic",
+    "source": "Arabic Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:01.338Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  }
+]

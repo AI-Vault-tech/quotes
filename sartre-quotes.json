@@ -1,0 +1,102 @@
+[
+  {
+    "id": "sartre-1",
+    "text": "Man is condemned to be free; because once thrown into the world, he is responsible for everything he does.",
+    "author": "Jean-Paul Sartre",
+    "authorId": "sartre",
+    "tags": ["freedom", "responsibility", "existence"],
+    "themes": ["existentialism", "freedom", "responsibility"],
+    "schools": ["existentialism"],
+    "era": "modern"
+  },
+  {
+    "id": "sartre-2",
+    "text": "Hell is other people.",
+    "author": "Jean-Paul Sartre",
+    "authorId": "sartre",
+    "tags": ["hell", "people", "relationships"],
+    "themes": ["interpersonal-relationships", "conflict", "society"],
+    "schools": ["existentialism"],
+    "era": "modern"
+  },
+  {
+    "id": "sartre-3",
+    "text": "We are our choices.",
+    "author": "Jean-Paul Sartre",
+    "authorId": "sartre",
+    "tags": ["choice", "identity", "responsibility"],
+    "themes": ["self-creation", "agency", "identity"],
+    "schools": ["existentialism"],
+    "era": "modern"
+  },
+  {
+    "id": "sartre-4",
+    "text": "Freedom is what you do with what's been done to you.",
+    "author": "Jean-Paul Sartre",
+    "authorId": "sartre",
+    "tags": ["freedom", "agency", "response"],
+    "themes": ["freedom", "agency", "responsibility"],
+    "schools": ["existentialism"],
+    "era": "modern"
+  },
+  {
+    "id": "sartre-5",
+    "text": "The most important thing in literature is to say what has not yet been said.",
+    "author": "Jean-Paul Sartre",
+    "authorId": "sartre",
+    "tags": ["literature", "innovation", "expression"],
+    "themes": ["creativity", "literature", "originality"],
+    "schools": ["existentialism"],
+    "era": "modern"
+  },
+  {
+    "id": "sartre-6",
+    "text": "What is important is not what we choose, but that we choose.",
+    "author": "Jean-Paul Sartre",
+    "authorId": "sartre",
+    "tags": ["choice", "decision", "agency"],
+    "themes": ["decision-making", "agency", "freedom"],
+    "schools": ["existentialism"],
+    "era": "modern"
+  },
+  {
+    "id": "sartre-7",
+    "text": "Man can will nothing unless he has first understood that he must count on no one but himself.",
+    "author": "Jean-Paul Sartre",
+    "authorId": "sartre",
+    "tags": ["independence", "self-reliance", "will"],
+    "themes": ["self-reliance", "independence", "human-condition"],
+    "schools": ["existentialism"],
+    "era": "modern"
+  },
+  {
+    "id": "sartre-8",
+    "text": "The emotions are the mechanisms by which man combats and destroys the world which has been proposed to him.",
+    "author": "Jean-Paul Sartre",
+    "authorId": "sartre",
+    "tags": ["emotions", "world", "resistance"],
+    "themes": ["emotions", "psychology", "human-nature"],
+    "schools": ["existentialism"],
+    "era": "modern"
+  },
+  {
+    "id": "sartre-9",
+    "text": "To be is to be perceived.",
+    "author": "Jean-Paul Sartre",
+    "authorId": "sartre",
+    "tags": ["existence", "perception", "being"],
+    "themes": ["ontology", "perception", "existence"],
+    "schools": ["existentialism"],
+    "era": "modern"
+  },
+  {
+    "id": "sartre-10",
+    "text": "The essential lesson of Existentialism is that a man is what he makes himself.",
+    "author": "Jean-Paul Sartre",
+    "authorId": "sartre",
+    "tags": ["self-creation", "essence", "existence"],
+    "themes": ["self-creation", "identity", "existentialism"],
+    "schools": ["existentialism"],
+    "era": "modern"
+  }
+]

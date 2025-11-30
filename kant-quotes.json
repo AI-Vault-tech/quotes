@@ -1,0 +1,102 @@
+[
+  {
+    "id": "kant-1",
+    "text": "Two things fill the mind with ever new and increasing admiration and awe, the more often and steadily we reflect upon them: the starry heavens above me and the moral law within me.",
+    "author": "Immanuel Kant",
+    "authorId": "kant",
+    "tags": ["nature", "morality", "wonder"],
+    "themes": ["nature", "morality", "philosophy"],
+    "schools": ["german-idealism"],
+    "era": "enlightenment"
+  },
+  {
+    "id": "kant-2",
+    "text": "Act only according to that maxim whereby you can, at the same time, will that it should become a universal law.",
+    "author": "Immanuel Kant",
+    "authorId": "kant",
+    "tags": ["ethics", "morality", "duty"],
+    "themes": ["ethics", "categorical-imperative", "morality"],
+    "schools": ["german-idealism"],
+    "era": "enlightenment"
+  },
+  {
+    "id": "kant-3",
+    "text": "Thoughts without content are empty, intuitions without concepts are blind.",
+    "author": "Immanuel Kant",
+    "authorId": "kant",
+    "tags": ["thought", "intuition", "knowledge"],
+    "themes": ["epistemology", "knowledge", "philosophy"],
+    "schools": ["german-idealism"],
+    "era": "enlightenment"
+  },
+  {
+    "id": "kant-4",
+    "text": "Science is organized knowledge. Wisdom is organized life.",
+    "author": "Immanuel Kant",
+    "authorId": "kant",
+    "tags": ["science", "wisdom", "knowledge"],
+    "themes": ["science", "wisdom", "life"],
+    "schools": ["german-idealism"],
+    "era": "enlightenment"
+  },
+  {
+    "id": "kant-5",
+    "text": "Out of the crooked timber of humanity, no straight thing was ever made.",
+    "author": "Immanuel Kant",
+    "authorId": "kant",
+    "tags": ["humanity", "nature", "perfection"],
+    "themes": ["human-nature", "imperfection", "philosophy"],
+    "schools": ["german-idealism"],
+    "era": "enlightenment"
+  },
+  {
+    "id": "kant-6",
+    "text": "Dare to know! Have the courage to use your own understanding.",
+    "author": "Immanuel Kant",
+    "authorId": "kant",
+    "tags": ["courage", "knowledge", "understanding"],
+    "themes": ["enlightenment", "reason", "independence"],
+    "schools": ["german-idealism"],
+    "era": "enlightenment"
+  },
+  {
+    "id": "kant-7",
+    "text": "Happiness is not an ideal of reason but of imagination.",
+    "author": "Immanuel Kant",
+    "authorId": "kant",
+    "tags": ["happiness", "reason", "imagination"],
+    "themes": ["happiness", "reason", "emotion"],
+    "schools": ["german-idealism"],
+    "era": "enlightenment"
+  },
+  {
+    "id": "kant-8",
+    "text": "The greatest human unhappiness is found in the attempt to avoid unhappiness.",
+    "author": "Immanuel Kant",
+    "authorId": "kant",
+    "tags": ["happiness", "unhappiness", "paradox"],
+    "themes": ["well-being", "paradox", "human-nature"],
+    "schools": ["german-idealism"],
+    "era": "enlightenment"
+  },
+  {
+    "id": "kant-9",
+    "text": "Morality is not the doctrine of how we may make ourselves happy, but how we may make ourselves worthy of happiness.",
+    "author": "Immanuel Kant",
+    "authorId": "kant",
+    "tags": ["morality", "happiness", "worthiness"],
+    "themes": ["ethics", "happiness", "virtue"],
+    "schools": ["german-idealism"],
+    "era": "enlightenment"
+  },
+  {
+    "id": "kant-10",
+    "text": "We are not rich by what we possess but by what we can do without.",
+    "author": "Immanuel Kant",
+    "authorId": "kant",
+    "tags": ["wealth", "possession", "contentment"],
+    "themes": ["materialism", "contentment", "values"],
+    "schools": ["german-idealism"],
+    "era": "enlightenment"
+  }
+]

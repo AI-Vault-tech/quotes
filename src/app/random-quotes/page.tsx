@@ -1,0 +1,132 @@
+'use client';
+
+import { useState, useEffect } from 'react';
+import QuoteCard from '@/components/QuoteCard';
+import Link from 'next/link';
+
+interface Quote {
+  id: string;
+  text: string;
+  author: string;
+  authorId: string;
+  tags: string[];
+  themes: string[];
+  schools: string[];
+}
+
+export default function RandomQuotesPage() {
+  const [quotes, setQuotes] = useState<Quote[]>([]);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState<string | null>(null);
+
+  useEffect(() => {
+    fetchRandomQuotes();
+  }, []);
+
+  const fetchRandomQuotes = async () => {
+    try {
+      setLoading(true);
+      // Fetch a larger set of random quotes
+      const response = await fetch(`/api/quotes?limit=150`); // Increased from 90 to 150
+      const data = await response.json();
+      
+      if (response.ok) {
+        // Shuffle the quotes to make them more random
+        const shuffled = [...data.quotes].sort(() => 0.5 - Math.random());
+        setQuotes(shuffled);
+      } else {
+        setError(data.error || 'Failed to fetch quotes');
+      }
+    } catch (err) {
+      setError('An error occurred while fetching quotes');
+      console.error(err);
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  if (loading && quotes.length === 0) {
+    return (
+      <div className="min-h-screen bg-background py-12">
+        <div className="container mx-auto px-4">
+          <div className="mb-8">
+            <Link href="/" className="text-accent hover:underline">&larr; Back to Home</Link>
+          </div>
+          
+          <div className="text-center mb-16">
+            <h1 className="heading-text text-4xl md:text-5xl mb-6 text-accent">Random Quotes</h1>
+            <p className="text-xl max-w-3xl mx-auto text-foreground/80">
+              Discover unexpected wisdom from across history and cultures
+            </p>
+          </div>
+          
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {[...Array(12)].map((_, index) => (
+              <div key={index} className="bg-cream/10 p-6 rounded-xl border border-cream/20 animate-pulse">
+                <div className="h-4 bg-cream/20 rounded mb-4"></div>
+                <div className="h-3 bg-cream/20 rounded mb-2 w-3/4"></div>
+                <div className="h-3 bg-cream/20 rounded w-1/2"></div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </div>
+    );
+  }
+
+  if (error) {
+    return (
+      <div className="min-h-screen bg-background py-12">
+        <div className="container mx-auto px-4">
+          <div className="mb-8">
+            <Link href="/" className="text-accent hover:underline">&larr; Back to Home</Link>
+          </div>
+          
+          <div className="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative" role="alert">
+            <strong className="font-bold">Error: </strong>
+            <span className="block sm:inline">{error}</span>
+          </div>
+        </div>
+      </div>
+    );
+  }
+
+  return (
+    <div className="min-h-screen bg-background py-12">
+      <div className="container mx-auto px-4">
+        <div className="mb-8">
+          <Link href="/" className="text-accent hover:underline">&larr; Back to Home</Link>
+        </div>
+        
+        <div className="text-center mb-16">
+          <h1 className="heading-text text-4xl md:text-5xl mb-6 text-accent">Random Quotes</h1>
+          <p className="text-xl max-w-3xl mx-auto text-foreground/80">
+            Discover unexpected wisdom from across history and cultures
+          </p>
+        </div>
+        
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+          {quotes.map((quote) => (
+            <QuoteCard
+              key={quote.id}
+              id={quote.id}
+              text={quote.text}
+              author={quote.author}
+              authorId={quote.authorId}
+              tags={quote.tags}
+            />
+          ))}
+        </div>
+        
+        <div className="text-center mt-12">
+          <button
+            onClick={fetchRandomQuotes}
+            className="px-6 py-3 bg-accent text-background rounded-full hover:bg-accent/80 transition-colors"
+          >
+            Show More Random Quotes
+          </button>
+        </div>
+      </div>
+    </div>
+  );
+}

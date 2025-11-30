@@ -1,0 +1,102 @@
+[
+  {
+    "id": "camus-1",
+    "text": "Fiction is the lie through which we tell the truth.",
+    "author": "Albert Camus",
+    "authorId": "camus",
+    "tags": ["fiction", "truth", "literature"],
+    "themes": ["art", "truth", "literature"],
+    "schools": ["existentialism"],
+    "era": "modern"
+  },
+  {
+    "id": "camus-2",
+    "text": "In the depth of winter, I finally learned that within me there lay an invincible summer.",
+    "author": "Albert Camus",
+    "authorId": "camus",
+    "tags": ["winter", "summer", "resilience"],
+    "themes": ["hope", "resilience", "inner-strength"],
+    "schools": ["existentialism"],
+    "era": "modern"
+  },
+  {
+    "id": "camus-3",
+    "text": "The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion.",
+    "author": "Albert Camus",
+    "authorId": "camus",
+    "tags": ["freedom", "rebellion", "existence"],
+    "themes": ["freedom", "rebellion", "absurdism"],
+    "schools": ["existentialism"],
+    "era": "modern"
+  },
+  {
+    "id": "camus-4",
+    "text": "You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.",
+    "author": "Albert Camus",
+    "authorId": "camus",
+    "tags": ["happiness", "meaning", "life"],
+    "themes": ["happiness", "meaning", "existence"],
+    "schools": ["existentialism"],
+    "era": "modern"
+  },
+  {
+    "id": "camus-5",
+    "text": "Real generosity toward the future lies in giving all to the present.",
+    "author": "Albert Camus",
+    "authorId": "camus",
+    "tags": ["generosity", "future", "present"],
+    "themes": ["time", "generosity", "living"],
+    "schools": ["existentialism"],
+    "era": "modern"
+  },
+  {
+    "id": "camus-6",
+    "text": "The struggle itself towards the heights is enough to fill a man's heart. One must imagine Sisyphus happy.",
+    "author": "Albert Camus",
+    "authorId": "camus",
+    "tags": ["struggle", "meaning", "happiness"],
+    "themes": ["absurdism", "meaning", "resilience"],
+    "schools": ["existentialism"],
+    "era": "modern"
+  },
+  {
+    "id": "camus-7",
+    "text": "A free press can be good or bad, but, most certainly, without freedom a press will never be anything but bad.",
+    "author": "Albert Camus",
+    "authorId": "camus",
+    "tags": ["freedom", "press", "truth"],
+    "themes": ["free-speech", "media", "democracy"],
+    "schools": ["existentialism"],
+    "era": "modern"
+  },
+  {
+    "id": "camus-8",
+    "text": "There is no love of life without despair of life.",
+    "author": "Albert Camus",
+    "authorId": "camus",
+    "tags": ["love", "life", "despair"],
+    "themes": ["life", "emotion", "paradox"],
+    "schools": ["existentialism"],
+    "era": "modern"
+  },
+  {
+    "id": "camus-9",
+    "text": "The welfare of humanity is always the alibi of tyrants.",
+    "author": "Albert Camus",
+    "authorId": "camus",
+    "tags": ["humanity", "tyranny", "welfare"],
+    "themes": ["politics", "power", "humanity"],
+    "schools": ["existentialism"],
+    "era": "modern"
+  },
+  {
+    "id": "camus-10",
+    "text": "Freedom is nothing but a chance to be better.",
+    "author": "Albert Camus",
+    "authorId": "camus",
+    "tags": ["freedom", "improvement", "opportunity"],
+    "themes": ["freedom", "self-improvement", "opportunity"],
+    "schools": ["existentialism"],
+    "era": "modern"
+  }
+]

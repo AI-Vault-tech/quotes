@@ -1,0 +1,102 @@
+[
+  {
+    "id": "hume-1",
+    "text": "Reason is, and ought only to be the slave of the passions, and can never pretend to any other office than to serve and obey them.",
+    "author": "David Hume",
+    "authorId": "hume",
+    "tags": ["reason", "passions", "emotion"],
+    "themes": ["reason", "emotion", "human-nature"],
+    "schools": ["empiricism", "skepticism"],
+    "era": "enlightenment"
+  },
+  {
+    "id": "hume-2",
+    "text": "It is not reason, which carries the prize, but experience.",
+    "author": "David Hume",
+    "authorId": "hume",
+    "tags": ["reason", "experience", "knowledge"],
+    "themes": ["reason", "experience", "epistemology"],
+    "schools": ["empiricism"],
+    "era": "enlightenment"
+  },
+  {
+    "id": "hume-3",
+    "text": "The life of man is of no greater importance to the universe than that of an oyster.",
+    "author": "David Hume",
+    "authorId": "hume",
+    "tags": ["life", "universe", "perspective"],
+    "themes": ["life", "perspective", "existence"],
+    "schools": ["skepticism"],
+    "era": "enlightenment"
+  },
+  {
+    "id": "hume-4",
+    "text": "Truth springs from argument amongst friends.",
+    "author": "David Hume",
+    "authorId": "hume",
+    "tags": ["truth", "argument", "friendship"],
+    "themes": ["truth", "dialogue", "knowledge"],
+    "schools": ["empiricism"],
+    "era": "enlightenment"
+  },
+  {
+    "id": "hume-5",
+    "text": "A wise man proportions his belief to the evidence.",
+    "author": "David Hume",
+    "authorId": "hume",
+    "tags": ["wisdom", "belief", "evidence"],
+    "themes": ["wisdom", "rationality", "epistemology"],
+    "schools": ["empiricism", "skepticism"],
+    "era": "enlightenment"
+  },
+  {
+    "id": "hume-6",
+    "text": "Probability is the very guide to life.",
+    "author": "David Hume",
+    "authorId": "hume",
+    "tags": ["probability", "life", "guidance"],
+    "themes": ["probability", "life", "decision-making"],
+    "schools": ["empiricism"],
+    "era": "enlightenment"
+  },
+  {
+    "id": "hume-7",
+    "text": "Custom, then, is the great guide of human life.",
+    "author": "David Hume",
+    "authorId": "hume",
+    "tags": ["custom", "habit", "life"],
+    "themes": ["custom", "habit", "human-nature"],
+    "schools": ["empiricism"],
+    "era": "enlightenment"
+  },
+  {
+    "id": "hume-8",
+    "text": "The mind is a kind of theatre, where several perceptions successively make their appearance; pass, repass, glide away, and mingle in an infinite variety of postures and situations.",
+    "author": "David Hume",
+    "authorId": "hume",
+    "tags": ["mind", "perception", "consciousness"],
+    "themes": ["mind", "consciousness", "perception"],
+    "schools": ["empiricism"],
+    "era": "enlightenment"
+  },
+  {
+    "id": "hume-9",
+    "text": "Beauty in things exists merely in the mind which contemplates them.",
+    "author": "David Hume",
+    "authorId": "hume",
+    "tags": ["beauty", "mind", "aesthetics"],
+    "themes": ["beauty", "aesthetics", "subjectivity"],
+    "schools": ["empiricism"],
+    "era": "enlightenment"
+  },
+  {
+    "id": "hume-10",
+    "text": "Where reason fails us, we are not able to establish any conclusion concerning the relation of cause and effect.",
+    "author": "David Hume",
+    "authorId": "hume",
+    "tags": ["reason", "cause-effect", "knowledge"],
+    "themes": ["reason", "causation", "epistemology"],
+    "schools": ["empiricism", "skepticism"],
+    "era": "enlightenment"
+  }
+]

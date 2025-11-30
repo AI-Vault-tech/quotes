@@ -1,0 +1,242 @@
+[
+  {
+    "id": "spanish-1",
+    "text": "La vida es lo que pasa mientras estás ocupado haciendo otros planes.",
+    "author": "John Lennon",
+    "authorId": "john-lennon",
+    "tags": [
+      "life",
+      "plans"
+    ],
+    "themes": [
+      "life",
+      "unexpected"
+    ],
+    "schools": [
+      "modern"
+    ],
+    "era": "modern",
+    "language": "spanish",
+    "source": "Spanish Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:01.356Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "spanish-2",
+    "text": "El mayor enemigo del conocimiento no es la ignorancia, sino la ilusión del conocimiento.",
+    "author": "Stephen Hawking",
+    "authorId": "stephen-hawking",
+    "tags": [
+      "knowledge",
+      "illusion"
+    ],
+    "themes": [
+      "knowledge",
+      "truth"
+    ],
+    "schools": [
+      "science"
+    ],
+    "era": "modern",
+    "language": "spanish",
+    "source": "Spanish Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:01.356Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "spanish-3",
+    "text": "Ser profundamente amado por alguien te da fuerza, mientras que amar a alguien profundamente te da valor.",
+    "author": "Lao Tzu",
+    "authorId": "lao-tzu",
+    "tags": [
+      "love",
+      "strength"
+    ],
+    "themes": [
+      "love",
+      "courage"
+    ],
+    "schools": [
+      "taoism"
+    ],
+    "era": "ancient",
+    "language": "spanish",
+    "source": "Spanish Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:01.356Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "spanish-4",
+    "text": "La simplicidad es la sofisticación suprema.",
+    "author": "Leonardo da Vinci",
+    "authorId": "leonardo-da-vinci",
+    "tags": [
+      "simplicity",
+      "sophistication"
+    ],
+    "themes": [
+      "simplicity",
+      "design"
+    ],
+    "schools": [
+      "renaissance"
+    ],
+    "era": "renaissance",
+    "language": "spanish",
+    "source": "Spanish Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:01.356Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "spanish-5",
+    "text": "Hay que aprender a morir para aprender a vivir.",
+    "author": "Montaigne",
+    "authorId": "montaigne",
+    "tags": [
+      "death",
+      "life"
+    ],
+    "themes": [
+      "mortality",
+      "wisdom"
+    ],
+    "schools": [
+      "renaissance"
+    ],
+    "era": "renaissance",
+    "language": "spanish",
+    "source": "Spanish Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:01.356Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "spanish-6",
+    "text": "La libertad comienza donde termina la ignorancia.",
+    "author": "Victor Hugo",
+    "authorId": "victor-hugo",
+    "tags": [
+      "freedom",
+      "ignorance"
+    ],
+    "themes": [
+      "freedom",
+      "knowledge"
+    ],
+    "schools": [
+      "literature"
+    ],
+    "era": "modern",
+    "language": "spanish",
+    "source": "Spanish Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:01.356Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "spanish-7",
+    "text": "La felicidad a veces está escondida en lo desconocido.",
+    "author": "Victor Hugo",
+    "authorId": "victor-hugo",
+    "tags": [
+      "happiness",
+      "unknown"
+    ],
+    "themes": [
+      "happiness",
+      "discovery"
+    ],
+    "schools": [
+      "literature"
+    ],
+    "era": "modern",
+    "language": "spanish",
+    "source": "Spanish Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:01.356Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "spanish-8",
+    "text": "El pensamiento es la cosa más grande del mundo.",
+    "author": "Henri Bergson",
+    "authorId": "henri-bergson",
+    "tags": [
+      "thought",
+      "greatness"
+    ],
+    "themes": [
+      "thinking",
+      "philosophy"
+    ],
+    "schools": [
+      "philosophy"
+    ],
+    "era": "modern",
+    "language": "spanish",
+    "source": "Spanish Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:01.356Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "spanish-9",
+    "text": "La esperanza es un sueño despierto.",
+    "author": "Aristóteles",
+    "authorId": "aristotle",
+    "tags": [
+      "hope",
+      "dream"
+    ],
+    "themes": [
+      "hope",
+      "aspiration"
+    ],
+    "schools": [
+      "ancient-greek"
+    ],
+    "era": "ancient",
+    "language": "spanish",
+    "source": "Spanish Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:01.356Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "spanish-10",
+    "text": "El comienzo de la sabiduría está en el asombro.",
+    "author": "Sócrates",
+    "authorId": "socrates",
+    "tags": [
+      "wisdom",
+      "wonder"
+    ],
+    "themes": [
+      "wisdom",
+      "curiosity"
+    ],
+    "schools": [
+      "ancient-greek"
+    ],
+    "era": "ancient",
+    "language": "spanish",
+    "source": "Spanish Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:01.356Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  }
+]

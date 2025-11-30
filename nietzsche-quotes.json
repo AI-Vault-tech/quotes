@@ -1,0 +1,102 @@
+[
+  {
+    "id": "nietzsche-1",
+    "text": "That which does not kill us makes us stronger.",
+    "author": "Friedrich Nietzsche",
+    "authorId": "nietzsche",
+    "tags": ["strength", "adversity", "growth"],
+    "themes": ["resilience", "adversity", "personal-growth"],
+    "schools": ["existentialism", "nihilism"],
+    "era": "modern"
+  },
+  {
+    "id": "nietzsche-2",
+    "text": "Without music, life would be a mistake.",
+    "author": "Friedrich Nietzsche",
+    "authorId": "nietzsche",
+    "tags": ["music", "life", "meaning"],
+    "themes": ["art", "life", "meaning"],
+    "schools": ["existentialism"],
+    "era": "modern"
+  },
+  {
+    "id": "nietzsche-3",
+    "text": "He who has a why to live can bear almost any how.",
+    "author": "Friedrich Nietzsche",
+    "authorId": "nietzsche",
+    "tags": ["purpose", "meaning", "resilience"],
+    "themes": ["meaning", "purpose", "existence"],
+    "schools": ["existentialism"],
+    "era": "modern"
+  },
+  {
+    "id": "nietzsche-4",
+    "text": "We love life, not because we are used to living but because we are used to loving.",
+    "author": "Friedrich Nietzsche",
+    "authorId": "nietzsche",
+    "tags": ["love", "life", "habit"],
+    "themes": ["love", "life", "human-nature"],
+    "schools": ["existentialism"],
+    "era": "modern"
+  },
+  {
+    "id": "nietzsche-5",
+    "text": "There are no facts, only interpretations.",
+    "author": "Friedrich Nietzsche",
+    "authorId": "nietzsche",
+    "tags": ["truth", "interpretation", "perspective"],
+    "themes": ["truth", "epistemology", "perspective"],
+    "schools": ["nihilism"],
+    "era": "modern"
+  },
+  {
+    "id": "nietzsche-6",
+    "text": "What does your conscience say? 'You should become the person you are.'",
+    "author": "Friedrich Nietzsche",
+    "authorId": "nietzsche",
+    "tags": ["self", "authenticity", "conscience"],
+    "themes": ["self-realization", "authenticity", "individuality"],
+    "schools": ["existentialism"],
+    "era": "modern"
+  },
+  {
+    "id": "nietzsche-7",
+    "text": "The individual has always had to struggle not to be overwhelmed by the tribe.",
+    "author": "Friedrich Nietzsche",
+    "authorId": "nietzsche",
+    "tags": ["individual", "society", "conformity"],
+    "themes": ["individuality", "society", "conformity"],
+    "schools": ["existentialism"],
+    "era": "modern"
+  },
+  {
+    "id": "nietzsche-8",
+    "text": "All truly great thoughts are conceived by walking.",
+    "author": "Friedrich Nietzsche",
+    "authorId": "nietzsche",
+    "tags": ["thought", "walking", "creativity"],
+    "themes": ["thinking", "creativity", "movement"],
+    "schools": ["existentialism"],
+    "era": "modern"
+  },
+  {
+    "id": "nietzsche-9",
+    "text": "In individuals, insanity is rare; but in groups, parties, nations and epochs, it is the rule.",
+    "author": "Friedrich Nietzsche",
+    "authorId": "nietzsche",
+    "tags": ["insanity", "groups", "society"],
+    "themes": ["collectivism", "society", "psychology"],
+    "schools": ["nihilism"],
+    "era": "modern"
+  },
+  {
+    "id": "nietzsche-10",
+    "text": "I know of no more enabling principle than this: to be ashamed of one's own experiences is to arrest one's development.",
+    "author": "Friedrich Nietzsche",
+    "authorId": "nietzsche",
+    "tags": ["shame", "experience", "development"],
+    "themes": ["self-acceptance", "growth", "psychology"],
+    "schools": ["existentialism"],
+    "era": "modern"
+  }
+]

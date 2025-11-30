@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "urdu-1",
+    "text": "زندگی وہ نہیں ہے جو آپ نے لی ہے، بلکہ وہ ہے جو آپ نے اسے کیسے گزارا۔",
+    "author": "Carl Sandburg",
+    "authorId": "carl-sandburg",
+    "tags": [
+      "life",
+      "meaning"
+    ],
+    "themes": [
+      "life",
+      "purpose"
+    ],
+    "schools": [
+      "modern"
+    ],
+    "era": "modern",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.359Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-2",
+    "text": "تمام کچھ بدل جاتا ہے، صرف اللہ کے سوا، وہ ہمیشہ ہمیشہ کے لیے رہتا ہے۔",
+    "author": "Khalil Gibran",
+    "authorId": "khalil-gibran",
+    "tags": [
+      "change",
+      "divinity"
+    ],
+    "themes": [
+      "change",
+      "spirituality"
+    ],
+    "schools": [
+      "mysticism"
+    ],
+    "era": "modern",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.360Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-3",
+    "text": "وقت ایک جادوگر ہے، وہ ہر چیز کو بدل دیتا ہے۔",
+    "author": "William Shakespeare",
+    "authorId": "william-shakespeare",
+    "tags": [
+      "time",
+      "change"
+    ],
+    "themes": [
+      "time",
+      "transformation"
+    ],
+    "schools": [
+      "literature"
+    ],
+    "era": "renaissance",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.360Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-4",
+    "text": "علم کے بغیر محبت کچھ بھی نہیں ہے، اور علم کے بغیر محبت بےکار ہے۔",
+    "author": "Al-Ghazali",
+    "authorId": "al-ghazali",
+    "tags": [
+      "knowledge",
+      "love"
+    ],
+    "themes": [
+      "knowledge",
+      "love"
+    ],
+    "schools": [
+      "islamic-philosophy"
+    ],
+    "era": "medieval",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.360Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-5",
+    "text": "ایمان کے بغیر علم کچھ بھی نہیں ہے، اور علم کے بغیر ایمان بےکار ہے۔",
+    "author": "Ibn Rushd",
+    "authorId": "ibn-rushd",
+    "tags": [
+      "faith",
+      "knowledge"
+    ],
+    "themes": [
+      "faith",
+      "knowledge"
+    ],
+    "schools": [
+      "islamic-philosophy"
+    ],
+    "era": "medieval",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.360Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-6",
+    "text": "دنیا میں کوئی بھی چیز مستقل نہیں ہے، سب کچھ بدلتا رہتا ہے۔",
+    "author": "Buddha",
+    "authorId": "buddha",
+    "tags": [
+      "change",
+      "impermanence"
+    ],
+    "themes": [
+      "change",
+      "impermanence"
+    ],
+    "schools": [
+      "buddhism"
+    ],
+    "era": "ancient",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.360Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-7",
+    "text": "اپنے آپ کو جاننے کے لیے پوری زندگی لگ جاتی ہے، اور پھر بھی یہ کافی نہیں ہوتی۔",
+    "author": "Confucius",
+    "authorId": "confucius",
+    "tags": [
+      "self-knowledge",
+      "learning"
+    ],
+    "themes": [
+      "self",
+      "learning"
+    ],
+    "schools": [
+      "confucianism"
+    ],
+    "era": "ancient",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.360Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-8",
+    "text": "ذرا سا بھی علم انسان کو اونچا کر دیتا ہے۔",
+    "author": "Hazrat Ali",
+    "authorId": "hazrat-ali",
+    "tags": [
+      "knowledge",
+      "wisdom"
+    ],
+    "themes": [
+      "knowledge",
+      "wisdom"
+    ],
+    "schools": [
+      "islamic-philosophy"
+    ],
+    "era": "medieval",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.360Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-9",
+    "text": "برائی کا مقابلہ بھلائی سے کرو، اور پھر دیکھو کہ دنیا کیسے بدل جاتی ہے۔",
+    "author": "Lao Tzu",
+    "authorId": "lao-tzu",
+    "tags": [
+      "good",
+      "evil"
+    ],
+    "themes": [
+      "goodness",
+      "morality"
+    ],
+    "schools": [
+      "taoism"
+    ],
+    "era": "ancient",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.360Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-10",
+    "text": "زندگی کا مقصد جاننے کے لیے زندگی کو جینا پڑتا ہے۔",
+    "author": "Albert Camus",
+    "authorId": "albert-camus",
+    "tags": [
+      "life",
+      "meaning"
+    ],
+    "themes": [
+      "life",
+      "purpose"
+    ],
+    "schools": [
+      "existentialism"
+    ],
+    "era": "modern",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.360Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-11",
+    "text": "دنیا کو بدلنے کی کوشش کرنے سے پہلے اپنے آپ کو بدل لو۔",
+    "author": "Mahatma Gandhi",
+    "authorId": "mahatma-gandhi",
+    "tags": [
+      "change",
+      "self-improvement"
+    ],
+    "themes": [
+      "change",
+      "self"
+    ],
+    "schools": [
+      "modern"
+    ],
+    "era": "modern",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.360Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-12",
+    "text": "عقل کے بغیر دل کچھ بھی نہیں ہے، اور دل کے بغیر عقل بےجان ہے۔",
+    "author": "Rumi",
+    "authorId": "rumi",
+    "tags": [
+      "heart",
+      "mind"
+    ],
+    "themes": [
+      "heart",
+      "mind"
+    ],
+    "schools": [
+      "sufism"
+    ],
+    "era": "medieval",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.360Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-13",
+    "text": "ہر رات کے بعد ایک نیا دن آتا ہے، نئی امیدوں کے ساتھ۔",
+    "author": "Maya Angelou",
+    "authorId": "maya-angelou",
+    "tags": [
+      "hope",
+      "new-beginnings"
+    ],
+    "themes": [
+      "hope",
+      "renewal"
+    ],
+    "schools": [
+      "modern"
+    ],
+    "era": "modern",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.360Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-14",
+    "text": "سچ کو جاننے کے لیے پہلے اسے قبول کرنا پڑتا ہے۔",
+    "author": "Socrates",
+    "authorId": "socrates",
+    "tags": [
+      "truth",
+      "knowledge"
+    ],
+    "themes": [
+      "truth",
+      "wisdom"
+    ],
+    "schools": [
+      "ancient-greek"
+    ],
+    "era": "ancient",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.360Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-15",
+    "text": "کامیابی کا راز یہ ہے کہ کبھی ہار نہ مانو۔",
+    "author": "Napoleon Hill",
+    "authorId": "napoleon-hill",
+    "tags": [
+      "success",
+      "persistence"
+    ],
+    "themes": [
+      "success",
+      "perseverance"
+    ],
+    "schools": [
+      "modern"
+    ],
+    "era": "modern",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.360Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-16",
+    "text": "خوشی کا راز یہ ہے کہ دوسروں کی خوشیوں میں حصہ لینا۔",
+    "author": "Aristotle",
+    "authorId": "aristotle",
+    "tags": [
+      "happiness",
+      "friendship"
+    ],
+    "themes": [
+      "happiness",
+      "community"
+    ],
+    "schools": [
+      "ancient-greek"
+    ],
+    "era": "ancient",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.360Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-17",
+    "text": "جسے تم پسند کرتے ہو، اس کے ساتھ اپنی زندگی گزارو، ورنہ اسے تبدیل کر دو۔",
+    "author": "Jim Rohn",
+    "authorId": "jim-rohn",
+    "tags": [
+      "life",
+      "change"
+    ],
+    "themes": [
+      "life",
+      "transformation"
+    ],
+    "schools": [
+      "modern"
+    ],
+    "era": "modern",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.360Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-18",
+    "text": "وقت کا اندازہ اس بات سے ہوتا ہے کہ ہم اسے کیسے بروئے کار لاتے ہیں۔",
+    "author": "Benjamin Franklin",
+    "authorId": "benjamin-franklin",
+    "tags": [
+      "time",
+      "productivity"
+    ],
+    "themes": [
+      "time",
+      "productivity"
+    ],
+    "schools": [
+      "enlightenment"
+    ],
+    "era": "enlightenment",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.360Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-19",
+    "text": "کتابوں کے ذریعے دنیا کا سفر کرنا انسان کو بہت کچھ سکھاتا ہے۔",
+    "author": "Virginia Woolf",
+    "authorId": "virginia-woolf",
+    "tags": [
+      "books",
+      "learning"
+    ],
+    "themes": [
+      "learning",
+      "literature"
+    ],
+    "schools": [
+      "modern"
+    ],
+    "era": "modern",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.360Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-20",
+    "text": "دل کی آواز کو سمجھنے کے لیے خاموش ہونا پڑتا ہے۔",
+    "author": "Rumi",
+    "authorId": "rumi",
+    "tags": [
+      "heart",
+      "silence"
+    ],
+    "themes": [
+      "heart",
+      "inner-peace"
+    ],
+    "schools": [
+      "sufism"
+    ],
+    "era": "medieval",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.360Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-21",
+    "text": "زندگی کی سب سے بڑی خوشی یہ ہے کہ دوسروں کو خوش دیکھنا۔",
+    "author": "Abraham Lincoln",
+    "authorId": "abraham-lincoln",
+    "tags": [
+      "happiness",
+      "service"
+    ],
+    "themes": [
+      "happiness",
+      "service"
+    ],
+    "schools": [
+      "modern"
+    ],
+    "era": "modern",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.360Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-22",
+    "text": "ہر انسان کے اندر ایک شاعر چھپا ہوتا ہے۔",
+    "author": "Aristotle",
+    "authorId": "aristotle",
+    "tags": [
+      "poetry",
+      "human-nature"
+    ],
+    "themes": [
+      "creativity",
+      "human-nature"
+    ],
+    "schools": [
+      "ancient-greek"
+    ],
+    "era": "ancient",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.360Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-23",
+    "text": "خود کو جاننے کا راستہ یہ ہے کہ دوسروں کو سمجھو۔",
+    "author": "Confucius",
+    "authorId": "confucius",
+    "tags": [
+      "self-knowledge",
+      "understanding"
+    ],
+    "themes": [
+      "self",
+      "understanding"
+    ],
+    "schools": [
+      "confucianism"
+    ],
+    "era": "ancient",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.360Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-24",
+    "text": "دنیا کو بہتر بنانے کا سب سے بہتر طریقہ یہ ہے کہ اپنے آپ کو بہتر بنایا جائے۔",
+    "author": "Gandhi",
+    "authorId": "mahatma-gandhi",
+    "tags": [
+      "improvement",
+      "change"
+    ],
+    "themes": [
+      "self-improvement",
+      "change"
+    ],
+    "schools": [
+      "modern"
+    ],
+    "era": "modern",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.360Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-25",
+    "text": "عمر ایک عدد نہیں ہے، بلکہ احساس ہے۔",
+    "author": "Gabriel García Márquez",
+    "authorId": "gabriel-garcia-marquez",
+    "tags": [
+      "age",
+      "experience"
+    ],
+    "themes": [
+      "age",
+      "wisdom"
+    ],
+    "schools": [
+      "modern"
+    ],
+    "era": "modern",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.360Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-26",
+    "text": "دل کی گہرائیوں کو سمجھنے کے لیے الفاظ کافی نہیں ہوتے۔",
+    "author": "Khalil Gibran",
+    "authorId": "khalil-gibran",
+    "tags": [
+      "heart",
+      "communication"
+    ],
+    "themes": [
+      "heart",
+      "communication"
+    ],
+    "schools": [
+      "mysticism"
+    ],
+    "era": "modern",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.360Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-27",
+    "text": "ہر انسان کو اپنی زندگی کا مالک ہونا چاہیے۔",
+    "author": "Friedrich Nietzsche",
+    "authorId": "friedrich-nietzsche",
+    "tags": [
+      "freedom",
+      "responsibility"
+    ],
+    "themes": [
+      "freedom",
+      "responsibility"
+    ],
+    "schools": [
+      "existentialism"
+    ],
+    "era": "modern",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.360Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-28",
+    "text": "وقت کے ساتھ چلنا سیکھنا ہر انسان کے لیے ضروری ہے۔",
+    "author": "Lao Tzu",
+    "authorId": "lao-tzu",
+    "tags": [
+      "time",
+      "adaptability"
+    ],
+    "themes": [
+      "time",
+      "adaptation"
+    ],
+    "schools": [
+      "taoism"
+    ],
+    "era": "ancient",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.360Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-29",
+    "text": "سچ کی تلاش میں ہمیشہ اپنے اصولوں پر قائم رہنا چاہیے۔",
+    "author": "Plato",
+    "authorId": "plato",
+    "tags": [
+      "truth",
+      "principles"
+    ],
+    "themes": [
+      "truth",
+      "integrity"
+    ],
+    "schools": [
+      "ancient-greek"
+    ],
+    "era": "ancient",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.360Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-30",
+    "text": "دنیا کو بدلنے کی کوشش کرنے سے پہلے اپنے آپ کو بدل لو۔",
+    "author": "Gandhi",
+    "authorId": "mahatma-gandhi",
+    "tags": [
+      "change",
+      "self-improvement"
+    ],
+    "themes": [
+      "change",
+      "self"
+    ],
+    "schools": [
+      "modern"
+    ],
+    "era": "modern",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.360Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-31",
+    "text": "محبت کا راز یہ ہے کہ دوسروں کی خوشیوں میں حصہ لینا۔",
+    "author": "Buddha",
+    "authorId": "buddha",
+    "tags": [
+      "love",
+      "compassion"
+    ],
+    "themes": [
+      "love",
+      "compassion"
+    ],
+    "schools": [
+      "buddhism"
+    ],
+    "era": "ancient",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.360Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-32",
+    "text": "زندگی کا مقصد سیکھنے اور بڑھنے کا ہے۔",
+    "author": "Confucius",
+    "authorId": "confucius",
+    "tags": [
+      "life",
+      "learning"
+    ],
+    "themes": [
+      "life",
+      "growth"
+    ],
+    "schools": [
+      "confucianism"
+    ],
+    "era": "ancient",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.360Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-33",
+    "text": "عقل کے بغیر دل کچھ بھی نہیں ہے، اور دل کے بغیر عقل بےجان ہے۔",
+    "author": "Rumi",
+    "authorId": "rumi",
+    "tags": [
+      "heart",
+      "mind"
+    ],
+    "themes": [
+      "heart",
+      "mind"
+    ],
+    "schools": [
+      "sufism"
+    ],
+    "era": "medieval",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.360Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-34",
+    "text": "ہر رات کے بعد ایک نیا دن آتا ہے، نئی امیدوں کے ساتھ۔",
+    "author": "Maya Angelou",
+    "authorId": "maya-angelou",
+    "tags": [
+      "hope",
+      "new-beginnings"
+    ],
+    "themes": [
+      "hope",
+      "renewal"
+    ],
+    "schools": [
+      "modern"
+    ],
+    "era": "modern",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.360Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-35",
+    "text": "سچ کو جاننے کے لیے پہلے اسے قبول کرنا پڑتا ہے۔",
+    "author": "Socrates",
+    "authorId": "socrates",
+    "tags": [
+      "truth",
+      "knowledge"
+    ],
+    "themes": [
+      "truth",
+      "wisdom"
+    ],
+    "schools": [
+      "ancient-greek"
+    ],
+    "era": "ancient",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.360Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-36",
+    "text": "کامیابی کا راز یہ ہے کہ کبھی ہار نہ مانو۔",
+    "author": "Napoleon Hill",
+    "authorId": "napoleon-hill",
+    "tags": [
+      "success",
+      "persistence"
+    ],
+    "themes": [
+      "success",
+      "perseverance"
+    ],
+    "schools": [
+      "modern"
+    ],
+    "era": "modern",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.360Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-37",
+    "text": "خوشی کا راز یہ ہے کہ دوسروں کی خوشیوں میں حصہ لینا۔",
+    "author": "Aristotle",
+    "authorId": "aristotle",
+    "tags": [
+      "happiness",
+      "friendship"
+    ],
+    "themes": [
+      "happiness",
+      "community"
+    ],
+    "schools": [
+      "ancient-greek"
+    ],
+    "era": "ancient",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.361Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-38",
+    "text": "جسے تم پسند کرتے ہو، اس کے ساتھ اپنی زندگی گزارو، ورنہ اسے تبدیل کر دو۔",
+    "author": "Jim Rohn",
+    "authorId": "jim-rohn",
+    "tags": [
+      "life",
+      "change"
+    ],
+    "themes": [
+      "life",
+      "transformation"
+    ],
+    "schools": [
+      "modern"
+    ],
+    "era": "modern",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.361Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-39",
+    "text": "وقت کا اندازہ اس بات سے ہوتا ہے کہ ہم اسے کیسے بروئے کار لاتے ہیں۔",
+    "author": "Benjamin Franklin",
+    "authorId": "benjamin-franklin",
+    "tags": [
+      "time",
+      "productivity"
+    ],
+    "themes": [
+      "time",
+      "productivity"
+    ],
+    "schools": [
+      "enlightenment"
+    ],
+    "era": "enlightenment",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.361Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-40",
+    "text": "کتابوں کے ذریعے دنیا کا سفر کرنا انسان کو بہت کچھ سکھاتا ہے۔",
+    "author": "Virginia Woolf",
+    "authorId": "virginia-woolf",
+    "tags": [
+      "books",
+      "learning"
+    ],
+    "themes": [
+      "learning",
+      "literature"
+    ],
+    "schools": [
+      "modern"
+    ],
+    "era": "modern",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.361Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-41",
+    "text": "دل کی آواز کو سمجھنے کے لیے خاموش ہونا پڑتا ہے۔",
+    "author": "Rumi",
+    "authorId": "rumi",
+    "tags": [
+      "heart",
+      "silence"
+    ],
+    "themes": [
+      "heart",
+      "inner-peace"
+    ],
+    "schools": [
+      "sufism"
+    ],
+    "era": "medieval",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.361Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-42",
+    "text": "زندگی کی سب سے بڑی خوشی یہ ہے کہ دوسروں کو خوش دیکھنا۔",
+    "author": "Abraham Lincoln",
+    "authorId": "abraham-lincoln",
+    "tags": [
+      "happiness",
+      "service"
+    ],
+    "themes": [
+      "happiness",
+      "service"
+    ],
+    "schools": [
+      "modern"
+    ],
+    "era": "modern",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.361Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-43",
+    "text": "ہر انسان کے اندر ایک شاعر چھپا ہوتا ہے۔",
+    "author": "Aristotle",
+    "authorId": "aristotle",
+    "tags": [
+      "poetry",
+      "human-nature"
+    ],
+    "themes": [
+      "creativity",
+      "human-nature"
+    ],
+    "schools": [
+      "ancient-greek"
+    ],
+    "era": "ancient",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.361Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-44",
+    "text": "خود کو جاننے کا راستہ یہ ہے کہ دوسروں کو سمجھو۔",
+    "author": "Confucius",
+    "authorId": "confucius",
+    "tags": [
+      "self-knowledge",
+      "understanding"
+    ],
+    "themes": [
+      "self",
+      "understanding"
+    ],
+    "schools": [
+      "confucianism"
+    ],
+    "era": "ancient",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.361Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-45",
+    "text": "دنیا کو بہتر بنانے کا سب سے بہتر طریقہ یہ ہے کہ اپنے آپ کو بہتر بنایا جائے۔",
+    "author": "Gandhi",
+    "authorId": "mahatma-gandhi",
+    "tags": [
+      "improvement",
+      "change"
+    ],
+    "themes": [
+      "self-improvement",
+      "change"
+    ],
+    "schools": [
+      "modern"
+    ],
+    "era": "modern",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.361Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-46",
+    "text": "عمر ایک عدد نہیں ہے، بلکہ احساس ہے۔",
+    "author": "Gabriel García Márquez",
+    "authorId": "gabriel-garcia-marquez",
+    "tags": [
+      "age",
+      "experience"
+    ],
+    "themes": [
+      "age",
+      "wisdom"
+    ],
+    "schools": [
+      "modern"
+    ],
+    "era": "modern",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.361Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-47",
+    "text": "دل کی گہرائیوں کو سمجھنے کے لیے الفاظ کافی نہیں ہوتے۔",
+    "author": "Khalil Gibran",
+    "authorId": "khalil-gibran",
+    "tags": [
+      "heart",
+      "communication"
+    ],
+    "themes": [
+      "heart",
+      "communication"
+    ],
+    "schools": [
+      "mysticism"
+    ],
+    "era": "modern",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.361Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-48",
+    "text": "ہر انسان کو اپنی زندگی کا مالک ہونا چاہیے۔",
+    "author": "Friedrich Nietzsche",
+    "authorId": "friedrich-nietzsche",
+    "tags": [
+      "freedom",
+      "responsibility"
+    ],
+    "themes": [
+      "freedom",
+      "responsibility"
+    ],
+    "schools": [
+      "existentialism"
+    ],
+    "era": "modern",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.361Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-49",
+    "text": "وقت کے ساتھ چلنا سیکھنا ہر انسان کے لیے ضروری ہے۔",
+    "author": "Lao Tzu",
+    "authorId": "lao-tzu",
+    "tags": [
+      "time",
+      "adaptability"
+    ],
+    "themes": [
+      "time",
+      "adaptation"
+    ],
+    "schools": [
+      "taoism"
+    ],
+    "era": "ancient",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.361Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "urdu-50",
+    "text": "سچ کی تلاش میں ہمیشہ اپنے اصولوں پر قائم رہنا چاہیے۔",
+    "author": "Plato",
+    "authorId": "plato",
+    "tags": [
+      "truth",
+      "principles"
+    ],
+    "themes": [
+      "truth",
+      "integrity"
+    ],
+    "schools": [
+      "ancient-greek"
+    ],
+    "era": "ancient",
+    "language": "urdu",
+    "source": "Urdu Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:14.361Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  }
+]

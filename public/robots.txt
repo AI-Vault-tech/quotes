@@ -1,0 +1,44 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://veritas.example.com/sitemap.xml
+
+# Prevent crawling of admin pages
+Disallow: /admin/
+Disallow: /api/test/
+Disallow: /private/
+Disallow: /tmp/
+
+# Rate limiting for crawlers
+Crawl-delay: 10
+
+# Google-specific directives
+User-agent: Googlebot
+Allow: /
+Disallow: /admin/
+Disallow: /api/test/
+Disallow: /private/
+
+# Bing-specific directives
+User-agent: Bingbot
+Allow: /
+Disallow: /admin/
+Disallow: /api/test/
+Disallow: /private/
+
+# Yandex-specific directives
+User-agent: Yandex
+Allow: /
+Disallow: /admin/
+Disallow: /api/test/
+Disallow: /private/
+
+# Baidu-specific directives
+User-agent: Baiduspider
+Allow: /
+Disallow: /admin/
+Disallow: /api/test/
+Disallow: /private/
+
+# Host directive
+Host: https://veritas.example.com

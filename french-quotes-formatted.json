@@ -1,0 +1,242 @@
+[
+  {
+    "id": "french-1",
+    "text": "La vie est ce qui arrive quand vous êtes occupé à faire d'autres plans.",
+    "author": "John Lennon",
+    "authorId": "john-lennon",
+    "tags": [
+      "life",
+      "plans"
+    ],
+    "themes": [
+      "life",
+      "unexpected"
+    ],
+    "schools": [
+      "modern"
+    ],
+    "era": "modern",
+    "language": "french",
+    "source": "French Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:01.353Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "french-2",
+    "text": "Le plus grand ennemi de la connaissance n'est pas l'ignorance, c'est l'illusion de la connaissance.",
+    "author": "Stephen Hawking",
+    "authorId": "stephen-hawking",
+    "tags": [
+      "knowledge",
+      "illusion"
+    ],
+    "themes": [
+      "knowledge",
+      "truth"
+    ],
+    "schools": [
+      "science"
+    ],
+    "era": "modern",
+    "language": "french",
+    "source": "French Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:01.353Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "french-3",
+    "text": "Être profondément aimé par quelqu'un vous donne de la force, tandis qu'aimer quelqu'un profondément vous donne du courage.",
+    "author": "Lao Tzu",
+    "authorId": "lao-tzu",
+    "tags": [
+      "love",
+      "strength"
+    ],
+    "themes": [
+      "love",
+      "courage"
+    ],
+    "schools": [
+      "taoism"
+    ],
+    "era": "ancient",
+    "language": "french",
+    "source": "French Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:01.353Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "french-4",
+    "text": "La simplicité est la sophistication suprême.",
+    "author": "Léonard de Vinci",
+    "authorId": "leonardo-da-vinci",
+    "tags": [
+      "simplicity",
+      "sophistication"
+    ],
+    "themes": [
+      "simplicity",
+      "design"
+    ],
+    "schools": [
+      "renaissance"
+    ],
+    "era": "renaissance",
+    "language": "french",
+    "source": "French Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:01.353Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "french-5",
+    "text": "Il faut apprendre à mourir pour apprendre à vivre.",
+    "author": "Montaigne",
+    "authorId": "montaigne",
+    "tags": [
+      "death",
+      "life"
+    ],
+    "themes": [
+      "mortality",
+      "wisdom"
+    ],
+    "schools": [
+      "renaissance"
+    ],
+    "era": "renaissance",
+    "language": "french",
+    "source": "French Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:01.353Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "french-6",
+    "text": "La liberté commence là où l'ignorance finit.",
+    "author": "Victor Hugo",
+    "authorId": "victor-hugo",
+    "tags": [
+      "freedom",
+      "ignorance"
+    ],
+    "themes": [
+      "freedom",
+      "knowledge"
+    ],
+    "schools": [
+      "literature"
+    ],
+    "era": "modern",
+    "language": "french",
+    "source": "French Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:01.353Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "french-7",
+    "text": "Le bonheur est parfois caché dans l'inconnu.",
+    "author": "Victor Hugo",
+    "authorId": "victor-hugo",
+    "tags": [
+      "happiness",
+      "unknown"
+    ],
+    "themes": [
+      "happiness",
+      "discovery"
+    ],
+    "schools": [
+      "literature"
+    ],
+    "era": "modern",
+    "language": "french",
+    "source": "French Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:01.353Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "french-8",
+    "text": "La pensée est la plus grande chose dans le monde.",
+    "author": "Henri Bergson",
+    "authorId": "henri-bergson",
+    "tags": [
+      "thought",
+      "greatness"
+    ],
+    "themes": [
+      "thinking",
+      "philosophy"
+    ],
+    "schools": [
+      "philosophy"
+    ],
+    "era": "modern",
+    "language": "french",
+    "source": "French Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:01.353Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "french-9",
+    "text": "L'espérance est un rêve éveillé.",
+    "author": "Aristote",
+    "authorId": "aristotle",
+    "tags": [
+      "hope",
+      "dream"
+    ],
+    "themes": [
+      "hope",
+      "aspiration"
+    ],
+    "schools": [
+      "ancient-greek"
+    ],
+    "era": "ancient",
+    "language": "french",
+    "source": "French Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:01.353Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  },
+  {
+    "id": "french-10",
+    "text": "Le commencement de la sagesse est dans l'émerveillement.",
+    "author": "Socrate",
+    "authorId": "socrates",
+    "tags": [
+      "wisdom",
+      "wonder"
+    ],
+    "themes": [
+      "wisdom",
+      "curiosity"
+    ],
+    "schools": [
+      "ancient-greek"
+    ],
+    "era": "ancient",
+    "language": "french",
+    "source": "French Philosophical Collection",
+    "addedDate": "2025-11-30T02:12:01.353Z",
+    "verified": true,
+    "likes": 0,
+    "shares": 0
+  }
+]
