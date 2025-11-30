@@ -33,18 +33,7 @@ export const metadata: Metadata = generateMetadataWithHreflang({
     description: "Explore 500+ timeless quotes on love, connection, and human relationships from history's greatest minds.",
     images: ["/twitter-love.png"], // You'll need to add this image
   },
-}, '/explore/themes/love', {
-  'en-US': '/explore/themes/love',
-  'es-ES': '/es/explore/themes/love',
-  'fr-FR': '/fr/explore/themes/love',
-  'de-DE': '/de/explore/themes/love',
-  'it-IT': '/it/explore/themes/love',
-  'pt-PT': '/pt/explore/themes/love',
-  'zh-CN': '/zh/explore/themes/love',
-  'ja-JP': '/ja/explore/themes/love',
-  'ko-KR': '/ko/explore/themes/love',
-  'ar-SA': '/ar/explore/themes/love'
-});
+}, '/explore/themes/love');
 
 export default function LoveRelationshipsPage() {
   const breadcrumbs = [

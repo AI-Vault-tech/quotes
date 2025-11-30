@@ -33,18 +33,7 @@ export const metadata: Metadata = generateMetadataWithHreflang({
     description: "Journey through 11,000+ quotes organized by time periods, themes, schools of philosophy, and personality types.",
     images: ["/twitter-explore.png"], // You'll need to add this image
   },
-}, '/explore', {
-  'en-US': '/explore',
-  'es-ES': '/es/explore',
-  'fr-FR': '/fr/explore',
-  'de-DE': '/de/explore',
-  'it-IT': '/it/explore',
-  'pt-PT': '/pt/explore',
-  'zh-CN': '/zh/explore',
-  'ja-JP': '/ja/explore',
-  'ko-KR': '/ko/explore',
-  'ar-SA': '/ar/explore'
-});
+}, '/explore');
 
 export default function ExplorePage() {
   const breadcrumbs = [
