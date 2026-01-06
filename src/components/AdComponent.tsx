@@ -1,7 +1,4 @@
-'use client';
-
-import { useEffect, useRef } from 'react';
-import { ADSENSE_CONFIG } from '@/lib/adsense';
+import ClientAdWrapper from './ClientAdWrapper';
 
 interface AdComponentProps {
   adSlot: string;
@@ -20,28 +17,15 @@ const AdComponent: React.FC<AdComponentProps> = ({
   style,
   adStyle = { display: 'block' },
 }) => {
-  const adRef = useRef<HTMLDivElement>(null);
-
-  useEffect(() => {
-    try {
-      // Push ads when component mounts
-      (window.adsbygoogle = window.adsbygoogle || []).push({});
-    } catch (err) {
-      console.error('AdSense error:', err);
-    }
-  }, [adSlot]);
-
   return (
-    <div className={`ad-container ${className}`} style={style} ref={adRef}>
-      <ins
-        className="adsbygoogle"
-        style={adStyle}
-        data-ad-client={ADSENSE_CONFIG.publisherId}
-        data-ad-slot={adSlot}
-        data-ad-format={adFormat === 'rectangle' ? 'rectangle' : 'auto'}
-        data-full-width-responsive={fullWidth ? 'true' : 'false'}
-      />
-    </div>
+    <ClientAdWrapper
+      adSlot={adSlot}
+      adFormat={adFormat}
+      fullWidth={fullWidth}
+      className={className}
+      style={style}
+      adStyle={adStyle}
+    />
   );
 };
 

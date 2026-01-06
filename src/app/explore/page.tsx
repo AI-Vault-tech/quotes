@@ -1,5 +1,3 @@
-'use client';
-
 import Link from 'next/link';
 import DynamicQuoteSection from '@/components/DynamicQuoteSection';
 import AdComponent from '@/components/AdComponent';
