@@ -23,11 +23,14 @@ const AdComponent = ({
   useEffect(() => {
     try {
       (window as any).adsbygoogle = (window as any).adsbygoogle || [];
-      (window as any).adsbygoogle.push({});
+      // Add a small delay to ensure the adsbygoogle script is fully loaded
+      setTimeout(() => {
+        (window as any).adsbygoogle.push({});
+      }, 500);
     } catch (err) {
       console.error('AdSense error:', err);
     }
-  }, []);
+  }, [adSlot]);
 
   const adStyle = {
     display: 'block',
