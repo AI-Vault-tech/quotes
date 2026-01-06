@@ -5,6 +5,7 @@ import QuoteCard from '@/components/QuoteCard';
 import Link from 'next/link';
 import AdComponent from '@/components/AdComponent';
 
+
 interface Quote {
   id: string;
   text: string;
