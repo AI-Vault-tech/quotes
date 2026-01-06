@@ -52,6 +52,7 @@ export default function Header() {
               adSlot="9602633240" 
               adFormat="horizontal" 
               style={{ width: '320px', height: '50px' }} 
+              className="block"
             />
           </div>
           

@@ -146,6 +146,7 @@ export default function QuotesPage() {
                 adSlot="7488586047" 
                 adFormat="rectangle" 
                 style={{ width: '100%', height: '600px' }} 
+                className="block w-full"
               />
             </div>
           </div>

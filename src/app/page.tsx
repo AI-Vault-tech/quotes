@@ -24,6 +24,7 @@ export default function Home() {
               adSlot="9602633240" 
               adFormat="auto" 
               style={{ width: '100%', height: '90px' }} 
+              className="block w-full"
             />
           </div>
         </div>
