@@ -18,7 +18,7 @@ export const ADSENSE_CONFIG = {
     quotesContent: '9602633240',
     
     // Header banner
-    headerBanner: '9602633240',
+    // headerBanner: '9602633240',
   },
   
   // Ad formats
@@ -31,6 +31,6 @@ export const ADSENSE_CONFIG = {
 };
 
 // Helper function to get ad unit ID by placement
-export const getAdUnitId = (placement: keyof typeof ADSENSE_CONFIG.adUnits): string => {
+export const getAdUnitId = (placement: Exclude<keyof typeof ADSENSE_CONFIG.adUnits, 'headerBanner'>): string => {
   return ADSENSE_CONFIG.adUnits[placement];
 };

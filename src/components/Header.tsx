@@ -3,8 +3,6 @@
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { useState } from 'react';
-import AdComponent from './AdComponent';
-import { getAdUnitId } from '@/lib/adsense';
 import LanguageSelector from './LanguageSelector';
 
 export default function Header() {
@@ -27,17 +25,6 @@ export default function Header() {
 
   return (
     <header className="bg-background border-b border-cream/20 sticky top-0 z-50 backdrop-blur-sm">
-      {/* Banner Ad */}
-      <div className="bg-cream/5 py-2">
-        <div className="container mx-auto px-4 flex justify-center">
-          <AdComponent 
-            adSlot={getAdUnitId('headerBanner')} 
-            adFormat="horizontal" 
-            className="w-full max-w-4xl"
-          />
-        </div>
-      </div>
-      
       <div className="container mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
           <Link href="/" className="flex items-center space-x-2">
