@@ -9,13 +9,13 @@ export const ADSENSE_CONFIG = {
     homepageBanner: '9602633240',
     
     // Content ad on homepage
-    homepageContent: '9602633240',
+    homepageContent: '7488586047',
     
     // Content ad on explore page
-    exploreContent: '9602633240',
+    exploreContent: '7488586047',
     
     // Content ad on quotes page
-    quotesContent: '9602633240',
+    quotesContent: '7488586047',
     
     // Header banner
     // headerBanner: '9602633240',

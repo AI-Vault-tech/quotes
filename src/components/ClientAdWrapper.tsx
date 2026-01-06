@@ -43,7 +43,7 @@ const ClientAdWrapper: React.FC<ClientAdWrapperProps> = ({
         style={adStyle}
         data-ad-client={ADSENSE_CONFIG.publisherId}
         data-ad-slot={adSlot}
-        data-ad-format={adFormat === 'rectangle' ? 'rectangle' : 'auto'}
+        data-ad-format={adFormat === 'rectangle' ? 'rectangle' : adFormat === 'horizontal' ? 'horizontal' : adFormat === 'vertical' ? 'vertical' : 'autorelaxed'}
         data-full-width-responsive={fullWidth ? 'true' : 'false'}
       />
     </div>
