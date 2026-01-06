@@ -3,6 +3,13 @@
 import { useEffect } from 'react';
 import { ADSENSE_CONFIG } from '@/lib/adsense';
 
+// Extend Window interface to include adsbygoogle
+declare global {
+  interface Window {
+    adsbygoogle?: any[];
+  }
+}
+
 interface ClientAdWrapperProps {
   adSlot: string;
   adFormat?: 'auto' | 'rectangle' | 'horizontal' | 'vertical';
