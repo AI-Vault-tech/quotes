@@ -1,9 +1,10 @@
 import PremiumHero from '@/components/PremiumHero';
 import PremiumFooter from '@/components/PremiumFooter';
+import AdComponent from '@/components/AdComponent';
+import { getAdUnitId } from '@/lib/adsense';
 import { BreadcrumbStructuredData, SitelinksSearchBoxStructuredData } from '@/components/StructuredData';
 import PhilosophicalInsightExplorer from '@/components/PhilosophicalInsightExplorer';
 import UniqueThematicCollections from '@/components/UniqueThematicCollections';
-import AdComponent from '@/components/AdComponent';
 
 export default function Home() {
   const breadcrumbs = [
@@ -16,18 +17,6 @@ export default function Home() {
       <SitelinksSearchBoxStructuredData />
       <div className="min-h-screen bg-white dark:bg-gray-900">
         <PremiumHero />
-        
-        {/* Ad space after hero */}
-        <div className="container mx-auto px-4 py-6">
-          <div className="flex justify-center">
-            <AdComponent 
-              adSlot="9602633240" 
-              adFormat="auto" 
-              style={{ width: '100%', height: '90px' }} 
-              className="block w-full"
-            />
-          </div>
-        </div>
         
         {/* Premium Philosophical Insight Explorer */}
         <PhilosophicalInsightExplorer />
@@ -59,8 +48,22 @@ export default function Home() {
             </div>
           </div>
         </section>
-
+        
+        {/* Ad Section */}
+        <section className="py-8 bg-white dark:bg-gray-900">
+          <div className="container mx-auto px-4">
+            <div className="flex justify-center">
+              <AdComponent 
+                adSlot={getAdUnitId('homepageContent')} 
+                adFormat="rectangle" 
+                className="w-full max-w-2xl"
+              />
+            </div>
+          </div>
+        </section>
       </div>
+      
+      <PremiumFooter />
     </>
   );
 }

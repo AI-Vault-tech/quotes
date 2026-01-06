@@ -90,8 +90,8 @@ export default function RootLayout({
     <html lang="en">
       <head>
         <meta name="google-adsense-account" content="ca-pub-2894915343289598" />
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2894915343289598" 
-          crossOrigin="anonymous"></script>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2894915343289598"
+     crossorigin="anonymous"></script>
       </head>
       <body
         className={`${inter.variable} ${playfairDisplay.variable} ${cinzel.variable} antialiased`}

@@ -1,55 +1,45 @@
-'use client';
-
-import { useEffect } from 'react';
-
-type AdFormat = 'auto' | 'rectangle' | 'horizontal' | 'vertical' | 'fluid';
-type AdLayout = 'in-article' | 'in-feed' | 'search' | 'rectangle';
+import { useEffect, useRef } from 'react';
+import { ADSENSE_CONFIG } from '@/lib/adsense';
 
 interface AdComponentProps {
   adSlot: string;
-  adFormat?: AdFormat;
-  layout?: AdLayout;
-  style?: React.CSSProperties;
+  adFormat?: 'auto' | 'rectangle' | 'horizontal' | 'vertical';
+  fullWidth?: boolean;
   className?: string;
+  style?: React.CSSProperties;
+  adStyle?: React.CSSProperties;
 }
 
-const AdComponent = ({
+const AdComponent: React.FC<AdComponentProps> = ({
   adSlot,
   adFormat = 'auto',
-  layout,
-  style = {},
+  fullWidth = true,
   className = '',
-}: AdComponentProps) => {
+  style,
+  adStyle = { display: 'block' },
+}) => {
+  const adRef = useRef<HTMLDivElement>(null);
+
   useEffect(() => {
     try {
-      (window as any).adsbygoogle = (window as any).adsbygoogle || [];
-      // Add a small delay to ensure the adsbygoogle script is fully loaded
-      setTimeout(() => {
-        (window as any).adsbygoogle.push({});
-      }, 500);
+      // Push ads when component mounts
+      (window.adsbygoogle = window.adsbygoogle || []).push({});
     } catch (err) {
       console.error('AdSense error:', err);
     }
   }, [adSlot]);
 
-  const adStyle = {
-    display: 'block',
-    ...style,
-  };
-
-  const dataAdFormat = adFormat === 'auto' ? 'auto' : undefined;
-  const dataAdLayout = layout;
-
   return (
-    <ins
-      className={`adsbygoogle ${className}`}
-      style={adStyle}
-      data-ad-client="ca-pub-2894915343289598"
-      data-ad-slot={adSlot}
-      data-ad-format={dataAdFormat}
-      data-full-width-responsive="true"
-      {...(dataAdLayout && { 'data-ad-layout': dataAdLayout })}
-    />
+    <div className={`ad-container ${className}`} style={style} ref={adRef}>
+      <ins
+        className="adsbygoogle"
+        style={adStyle}
+        data-ad-client={ADSENSE_CONFIG.publisherId}
+        data-ad-slot={adSlot}
+        data-ad-format={adFormat === 'rectangle' ? 'rectangle' : 'auto'}
+        data-full-width-responsive={fullWidth ? 'true' : 'false'}
+      />
+    </div>
   );
 };
 

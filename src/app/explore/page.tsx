@@ -1,5 +1,7 @@
 import Link from 'next/link';
 import DynamicQuoteSection from '@/components/DynamicQuoteSection';
+import AdComponent from '@/components/AdComponent';
+import { getAdUnitId } from '@/lib/adsense';
 import type { Metadata } from 'next';
 import { BreadcrumbStructuredData } from '@/components/StructuredData';
 import { generateMetadataWithHreflang } from '@/lib/seo';
@@ -60,6 +62,15 @@ export default function ExplorePage() {
               filterType="theme" 
               filterValue="wisdom" 
               limit={200} // Increased from 75 to 200
+            />
+          </div>
+          
+          {/* Ad Section */}
+          <div className="mb-16 flex justify-center">
+            <AdComponent 
+              adSlot={getAdUnitId('exploreContent')} 
+              adFormat="rectangle" 
+              className="w-full max-w-2xl"
             />
           </div>
 
