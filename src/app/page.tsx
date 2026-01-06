@@ -1,3 +1,5 @@
+'use client';
+
 import PremiumHero from '@/components/PremiumHero';
 import PremiumFooter from '@/components/PremiumFooter';
 import AdComponent from '@/components/AdComponent';
