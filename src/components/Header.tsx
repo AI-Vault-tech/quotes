@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { useState } from 'react';
 import LanguageSelector from './LanguageSelector';
+import AdComponent from './AdComponent';
 
 export default function Header() {
   const pathname = usePathname();
@@ -45,6 +46,14 @@ export default function Header() {
               </Link>
             ))}
           </nav>
+          
+          <div className="hidden md:block">
+            <AdComponent 
+              adSlot="9602633240" 
+              adFormat="horizontal" 
+              style={{ width: '320px', height: '50px' }} 
+            />
+          </div>
           
           <div className="flex items-center space-x-4">
             <LanguageSelector />

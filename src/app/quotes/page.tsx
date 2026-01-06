@@ -3,6 +3,7 @@
 import { useState, useEffect } from 'react';
 import QuoteCard from '@/components/QuoteCard';
 import Link from 'next/link';
+import AdComponent from '@/components/AdComponent';
 
 interface Quote {
   id: string;
@@ -121,17 +122,32 @@ export default function QuotesPage() {
           </p>
         </div>
         
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {quotes.map((quote) => (
-            <QuoteCard
-              key={quote.id}
-              id={quote.id}
-              text={quote.text}
-              author={quote.author}
-              authorId={quote.authorId}
-              tags={quote.tags}
-            />
-          ))}
+        <div className="flex flex-col lg:flex-row gap-8">
+          <div className="lg:w-3/4">
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+              {quotes.map((quote) => (
+                <QuoteCard
+                  key={quote.id}
+                  id={quote.id}
+                  text={quote.text}
+                  author={quote.author}
+                  authorId={quote.authorId}
+                  tags={quote.tags}
+                />
+              ))}
+            </div>
+          </div>
+          
+          {/* Sidebar with ads */}
+          <div className="lg:w-1/4">
+            <div className="sticky top-24 bg-cream/10 p-6 rounded-xl border border-cream/20">
+              <AdComponent 
+                adSlot="7488586047" 
+                adFormat="rectangle" 
+                style={{ width: '100%', height: '600px' }} 
+              />
+            </div>
+          </div>
         </div>
         
         <div className="flex justify-between items-center mt-12">

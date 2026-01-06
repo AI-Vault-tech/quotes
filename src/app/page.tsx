@@ -3,6 +3,7 @@ import PremiumFooter from '@/components/PremiumFooter';
 import { BreadcrumbStructuredData, SitelinksSearchBoxStructuredData } from '@/components/StructuredData';
 import PhilosophicalInsightExplorer from '@/components/PhilosophicalInsightExplorer';
 import UniqueThematicCollections from '@/components/UniqueThematicCollections';
+import AdComponent from '@/components/AdComponent';
 
 export default function Home() {
   const breadcrumbs = [
@@ -15,6 +16,17 @@ export default function Home() {
       <SitelinksSearchBoxStructuredData />
       <div className="min-h-screen bg-white dark:bg-gray-900">
         <PremiumHero />
+        
+        {/* Ad space after hero */}
+        <div className="container mx-auto px-4 py-6">
+          <div className="flex justify-center">
+            <AdComponent 
+              adSlot="9602633240" 
+              adFormat="auto" 
+              style={{ width: '100%', height: '90px' }} 
+            />
+          </div>
+        </div>
         
         {/* Premium Philosophical Insight Explorer */}
         <PhilosophicalInsightExplorer />

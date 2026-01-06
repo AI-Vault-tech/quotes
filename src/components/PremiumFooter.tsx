@@ -2,6 +2,7 @@
 
 import Link from 'next/link';
 import { useState } from 'react';
+import AdComponent from './AdComponent';
 
 export default function PremiumFooter() {
   const [email, setEmail] = useState('');
@@ -111,6 +112,17 @@ export default function PremiumFooter() {
                 Subscribe
               </button>
             </form>
+          </div>
+        </div>
+        
+        {/* Ad space in footer */}
+        <div className="py-8">
+          <div className="flex justify-center">
+            <AdComponent 
+              adSlot="9602633240" 
+              adFormat="auto" 
+              style={{ width: '100%', height: '90px' }} 
+            />
           </div>
         </div>
         
