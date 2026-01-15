@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://veritas.example.com/sitemap.xml
+Sitemap: https://wisdomvault.vercel.app//sitemap.xml
 
 # Prevent crawling of admin pages
 Disallow: /admin/
@@ -41,4 +41,4 @@ Disallow: /api/test/
 Disallow: /private/
 
 # Host directive
-Host: https://veritas.example.com
+Host: https://wisdomvault.vercel.app/.com

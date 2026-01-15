@@ -8,7 +8,7 @@ import UniqueThematicCollections from '@/components/UniqueThematicCollections';
 
 export default function Home() {
   const breadcrumbs = [
-    { name: "Home", url: "https://veritas.example.com/" }
+    { name: "Home", url: "https://wisdomvault.vercel.app/.com/" }
   ];
 
   return (

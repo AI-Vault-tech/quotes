@@ -54,7 +54,7 @@ export const metadata: Metadata = generateMetadataWithCanonical({
   },
   openGraph: {
     title: "Veritas - Where Wisdom Finds Its Voice",
-    description: "Discover 11,000+ timeless quotes from history's greatest minds. Explore wisdom on love, success, courage, hope, and more.",
+    description: "Discover 10,00000+ timeless quotes from history's greatest minds. Explore wisdom on love, success, courage, hope, and more.",
     url: "https://wisdomvault.vercel.app", // Update with your actual domain
     siteName: "Veritas",
     images: [
@@ -90,6 +90,7 @@ export default function RootLayout({
     <html lang="en">
       <head>
         <meta name="google-adsense-account" content="ca-pub-2894915343289598" />
+        <meta name="monetag" content="75721e6fab382e2912f69578a8e0f7df" />
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2894915343289598"
      crossOrigin="anonymous"></script>
       </head>
